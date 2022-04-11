@@ -1,6 +1,6 @@
 # Emotion Regulation and Dynamics of Moral Concerns During the Early COVID-19 Pandemic
 
-Code for paper "Emotion Regulation and Dynamics of Moral Concerns During the Early COVID-19 Pandemic"
+Code for paper [Emotion Regulation and Dynamics of Moral Concerns During the Early COVID-19 Pandemic](https://arxiv.org/abs/2203.03608)
 
 In this work, we measure dynamics of emotions and moral concerns during the COVID pandemic. 
 
