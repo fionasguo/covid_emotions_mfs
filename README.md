@@ -6,7 +6,7 @@ In this work, we measure dynamics of emotions and moral concerns during the COVI
 
 We analyze English-language messages about the pandemic on Twitter between January and May 2020. Dataset can be found [here](https://github.com/echen102/COVID-19-TweetIDs).
 
-We use state-of-the-art language model [SpanEmo](https://github.com/hasanhuz/SpanEmo) to measure emotions, including fear, anger, and optimism.
+We use state-of-the-art language model [SpanEmo](https://github.com/hasanhuz/SpanEmo) to measure emotions, including fear, anger, and optimism. Results are compared to that of a simpler method, keyword matching using [EmoLex](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm).
 
 We use the [FrameAxis](https://github.com/negar-mokhberian/Moral_Foundation_FrameAxis) method to assess intensity of moral reactions along dimensions such as care, harm, fairness and cheating.
 
